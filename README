@@ -1,0 +1,7 @@
+Este é um dashboard desenvolvido em Python envolvendo ativos financeiros. Através dele, é possível organizar sua carteira de investimentos e ver quais ativos estão
+desempenhando bem ao decorrer do tempo em relação a o Ibovespa, tal como sua evolução patrimonial por meio da biblioteca 'datatime'. Além disso, ele exibe um gráfico 
+contendo sua diversificação de ativos no canto superior direito da tela, mostrando em quais áreas seus investimentos estão direcionados. 
+Ainda estou trabalhando em atualizações como, por exemplo, a implementação de um índice de volatilidade percentual diária e validação de diversificação. Meu desejo 
+é melhorar o projeto, mas, por ora é isso. 
+
+Enfim, curta e teste o código se desejar.
